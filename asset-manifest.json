@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-first-website/static/css/main.85b0e144.css",
+    "main.js": "/my-first-website/static/js/main.129cb3f4.js",
+    "static/js/787.21d17fcb.chunk.js": "/my-first-website/static/js/787.21d17fcb.chunk.js",
+    "static/media/madhan.jpeg": "/my-first-website/static/media/madhan.5e24e8ba5cd90490df69.jpeg",
+    "static/media/phy.png": "/my-first-website/static/media/phy.6cc43ce6c53067ffcad6.png",
+    "static/media/us4.jpg": "/my-first-website/static/media/us4.62c886f00bbd8fdefb21.jpg",
+    "static/media/us1.jpg": "/my-first-website/static/media/us1.5514445e375bfcfaa885.jpg",
+    "static/media/nandha.jpg": "/my-first-website/static/media/nandha.110662a8127c562001db.jpg",
+    "static/media/us3.jpg": "/my-first-website/static/media/us3.ac5b2ef0cd1794014bc0.jpg",
+    "static/media/backi.jpeg": "/my-first-website/static/media/backi.4ad059936be45de9a250.jpeg",
+    "static/media/kirthi.jpg": "/my-first-website/static/media/kirthi.dfdac2d499eecaf59942.jpg",
+    "static/media/native2.png": "/my-first-website/static/media/native2.defde8c978b58592783d.png",
+    "static/media/prasanth.JPEG": "/my-first-website/static/media/prasanth.843e084d4ea6c451aa19.JPEG",
+    "static/media/vinothbad.jpeg": "/my-first-website/static/media/vinothbad.ee1a2c2fbbf9d447a7f6.jpeg",
+    "static/media/nagabalan.jpeg": "/my-first-website/static/media/nagabalan.3784e2aaa50cceadcc90.jpeg",
+    "static/media/r1.jpeg": "/my-first-website/static/media/r1.df71a51fe99c6fc2e109.jpeg",
+    "static/media/us2.jpg": "/my-first-website/static/media/us2.806b7e508b1ef3cb4431.jpg",
+    "static/media/vettivelu.jpeg": "/my-first-website/static/media/vettivelu.4ebf758cf4bb3dd10033.jpeg",
+    "static/media/deva.jpeg": "/my-first-website/static/media/deva.70c328eab13a60051764.jpeg",
+    "static/media/janani.jpg": "/my-first-website/static/media/janani.b2828160f1efdf2a7dac.jpg",
+    "static/media/test.png": "/my-first-website/static/media/test.62cb91039b15d5d0fcd7.png",
+    "static/media/test1.jpeg": "/my-first-website/static/media/test1.e68a6f7f3994215a3093.jpeg",
+    "static/media/images.jpg": "/my-first-website/static/media/images.eedaa10e7d37ad971557.jpg",
+    "index.html": "/my-first-website/index.html",
+    "main.85b0e144.css.map": "/my-first-website/static/css/main.85b0e144.css.map",
+    "main.129cb3f4.js.map": "/my-first-website/static/js/main.129cb3f4.js.map",
+    "787.21d17fcb.chunk.js.map": "/my-first-website/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85b0e144.css",
+    "static/js/main.129cb3f4.js"
+  ]
+}
