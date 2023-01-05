@@ -51,11 +51,14 @@ const toogletheme= () =>{
       <div class="container-fluid">
         
       <Cursor />
-            <p class="nav-itam" id="home"><Link to="/" ></Link><AiTwotoneHome/>&nbsp;Home</p>
+         
+          <p class="nav-itam" id="home"><Link to="/my-first-website/" ></Link><AiTwotoneHome/>&nbsp;Home</p>
           <p class="nav-item" ><Link to="/education"><BiPaperPlane/>&nbsp;About us</Link></p>
           <h1 id="head"><AiFillGitlab id="icon"/>Codenatives-Karur<AiFillGitlab id="icon"/></h1>
           <p class="nav-itam" ><Link to="/family" ><RiTeamFill/>&nbsp;Teams</Link></p>
           <p class="nav-itam" ><Link to="/contact" ><IoIosContacts/>&nbsp;Contacts</Link></p>
+         
+
           <Switch
  
   onChange={toogletheme}
@@ -69,11 +72,12 @@ const toogletheme= () =>{
      
          <Zoom right cascade> 
       <Routes>
-        <Route path="/" element={<Form/>} />
+ 
+        <Route path="/my-first-website/" element={<Form/>} />
         <Route path="/education" element={<Education/>} />
         <Route path="/family" element={<Save/>} />
         <Route path="/contact" element={<Contact/>} />
-
+   
       
               
       </Routes>
